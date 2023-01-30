@@ -42,7 +42,7 @@ except:
 try:
     l4_port: int = nonebot.get_driver().config.l4_port
 except:
-    l4_port: int = 20715
+    l4_port: int = 27015
 
 try:
     l4_rcon: str = nonebot.get_driver().config.l4_rcon

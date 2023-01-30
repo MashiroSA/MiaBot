@@ -177,7 +177,7 @@ async def command_server(msg:str):
 def split_maohao(msg:str) -> list:
     """分割大小写冒号"""
     msg:list = re.split(":|：",msg.strip())
-    mse = [msg[0],msg[-1]] if msg[0] != msg[-1] else [msg[0],20715]
+    mse = [msg[0],msg[-1]] if msg[0] != msg[-1] else [msg[0],27015]
     return mse
 
 async def queries_server(msg:list) -> str:
