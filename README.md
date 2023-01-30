@@ -2,8 +2,10 @@
     <hr>
     <img src="https://raw.githubusercontent.com/MashiroSA/MiaBot/master/resource/headshot.png" width="200" height="200" alt="MiaBot"> 
     <h1>MiaBot</h1>
-    <b>Mia mia mia mia...</b>
+    <b>Mia mia mia mia... Oops, that's a big mistake!</b>
 </div>
+
+---
 
 [![Github Issue](https://img.shields.io/github/issues/MashiroSA/MiaBot)](https://github.com/MashiroSA/MiaBot/issues)
 [![Github Forks](https://img.shields.io/github/forks/MashiroSA/MiaBot)](https://github.com/MashiroSA/MiaBot/fork)
@@ -17,7 +19,7 @@
 ---
 
 ## 介绍
-这是一个部署库，意味着这并非开发仓库，只是作为快速部署镜像而存在。本库包含了可以快速可用的采用Onebot协议的Nonebot机器人，并使用GoCQHttp作为实现，其目的只是为了快速的完成一个能查询求生之路2的服务器信息的机器人，并将它懒人化。
+这是一个部署库，意味着这并非开发仓库，只是作为快速部署镜像而存在。本库包含了可以快速可用的采用Onebot协议的Nonebot机器人，并使用GoCQHttp作为实现。该Repo的目的只是为了快速的部署一个能查询求生之路2的服务器信息的QQ机器人，并优化部署流程，即开即用。
 
 你不应在该Repo中反馈除部署以外的问题，所有的插件均是借物，请移步相应的Repo反馈问题。
 
@@ -39,3 +41,4 @@
 - [Nonebot2](https://github.com/nonebot/nonebot2)
 - [GoCQHttp](https://github.com/Mrs4s/go-cqhttp)
 - [Nonebot插件-L4D2查询](https://github.com/Umamusume-Agnes-Digital/nonebot_plugin_l4d2_server)
+- [Nonebot插件-骰娘](https://github.com/abrahum/nonebot_plugin_cocdicer)
