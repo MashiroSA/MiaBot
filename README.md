@@ -42,3 +42,19 @@
 - [GoCQHttp](https://github.com/Mrs4s/go-cqhttp)
 - [Nonebot插件-L4D2查询](https://github.com/Umamusume-Agnes-Digital/nonebot_plugin_l4d2_server)
 - [Nonebot插件-骰娘](https://github.com/abrahum/nonebot_plugin_cocdicer)
+
+## 许可证
+
+`MiaBot` 采用 `MIT` 许可证进行开源
+
+```text
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
+
+## 感谢
+感谢各位制作机器人和机器人的插件的大佬们！/ Sincerely thank the programmers who made the nonebot, cq-http, plugins of nonebot and so on.
