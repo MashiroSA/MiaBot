@@ -1,6 +1,6 @@
 <div align="center">
     <hr>
-    <img src="https://raw.githubusercontent.com/ShizukuWorld/rin-asf-bot/master/resource/headshot.png" width="200" height="200" alt="MiaBot"> 
+    <img src="https://raw.githubusercontent.com/MashiroSA/MiaBot/master/resource/headshot.png" width="200" height="200" alt="MiaBot"> 
     <h1>MiaBot</h1>
     <b>Mia mia mia mia...</b>
 </div>
